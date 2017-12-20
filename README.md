@@ -2,7 +2,7 @@
 
 Proposta de paralelização do problema de alocação de canais em rede de telefonia celular
 
-Problema Inicial:
+Problema Inicial Não paralalelizado:
 https://github.com/nomar22/TP2
 
 Problema:
